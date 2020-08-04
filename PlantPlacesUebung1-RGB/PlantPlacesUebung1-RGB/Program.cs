@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace PlantPlacesUebung1_RGB
 {
+
+
     class Program
     {
         static void Main(string[] args)
